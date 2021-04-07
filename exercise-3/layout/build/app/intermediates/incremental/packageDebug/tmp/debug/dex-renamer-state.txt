@@ -1,0 +1,4 @@
+#Mon Apr 05 14:01:01 PDT 2021
+base.0=/Users/EMMA/Documents/info6350/exercise3/building_layouts/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
